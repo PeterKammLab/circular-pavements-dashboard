@@ -18,6 +18,13 @@ FLOW_LABELS = {'incoming_new':'Incoming new','incoming_reused':'Incoming reused'
 FLOW_COLORS = {'incoming_new':'#a6cee3','incoming_reused':'#fdae61','outgoing_reuse':'#d95f0e','outgoing_processing':'#bdbdbd'}
 
 st.set_page_config(page_title='Circular Pavements | Amsterdam', layout='wide')
+st.markdown("""
+<style>
+    .block-container {
+        padding-top: 0rem !important;
+    }
+</style>
+""", unsafe_allow_html=True)
 st.markdown('''<style>
 .stApp {background:#fafafa;color:#222}
 .stButton > button[kind="primary"] {background:#1a1a1a;color:white;border:0;border-radius:8px;min-height:2.8rem}
