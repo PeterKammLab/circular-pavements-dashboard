@@ -42,7 +42,7 @@ st.caption(
     "Spatial modelling of transport, material reuse and "
     "environmental impact in Amsterdam’s road maintenance."
 )
-st.caption("TU Delft · AMS Institute")
+st.caption("Choose your scenario and period before starting!")
 
 # Controls: changes are only committed on button click.
 scenario_col, start_col, end_col, spacer_col = st.columns([2.5, 1.15, 1.15, 3.2], gap='medium')
