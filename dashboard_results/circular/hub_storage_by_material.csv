@@ -1,0 +1,37 @@
+year,hub_name,material,flow,tonnes,hub_volume_m3_required,current_capacity_m2,current_capacity_m3
+2025,Circulaire hub Sluispolderweg,betonsteen,incoming_reused,16401.826666666668,7131.228985507248,2000,8000
+2025,Circulaire hub Sluispolderweg,betonsteen,outgoing_reuse,16884.23333333333,7340.971014492753,2000,8000
+2025,Circulaire hub Sluispolderweg,gebakken steen,incoming_reused,17820.93,8910.465,2000,8000
+2025,Circulaire hub Sluispolderweg,gebakken steen,outgoing_reuse,22130.566666666666,11065.283333333333,2000,8000
+2025,Opslaglocatie Theemsweg,betontegel,incoming_reused,16225.706666666669,7054.655072463769,6000,24000
+2025,Opslaglocatie Theemsweg,betontegel,outgoing_reuse,16702.93333333333,7262.144927536231,6000,24000
+2026,Circulaire hub Sluispolderweg,betonsteen,incoming_reused,16408.966666666667,7134.333333333334,2000,8000
+2026,Circulaire hub Sluispolderweg,betonsteen,outgoing_reuse,16891.583333333332,7344.166666666666,2000,8000
+2026,Circulaire hub Sluispolderweg,gebakken steen,incoming_reused,18071.085,9035.5425,2000,8000
+2026,Circulaire hub Sluispolderweg,gebakken steen,outgoing_reuse,22441.216666666667,11220.608333333334,2000,8000
+2026,Opslaglocatie Theemsweg,betontegel,incoming_reused,20222.40666666667,8792.350724637683,6000,24000
+2026,Opslaglocatie Theemsweg,betontegel,outgoing_reuse,20817.18333333333,9050.949275362318,6000,24000
+2027,Circulaire hub Sluispolderweg,betonsteen,incoming_reused,16164.62,7028.0956521739145,2000,8000
+2027,Circulaire hub Sluispolderweg,betonsteen,outgoing_reuse,16640.05,7234.804347826087,2000,8000
+2027,Circulaire hub Sluispolderweg,gebakken steen,incoming_reused,16446.3525,8223.17625,2000,8000
+2027,Circulaire hub Sluispolderweg,gebakken steen,outgoing_reuse,20423.574999999997,10211.787499999999,2000,8000
+2027,Opslaglocatie Theemsweg,betontegel,incoming_reused,18553.120000000003,8066.5739130434795,6000,24000
+2027,Opslaglocatie Theemsweg,betontegel,outgoing_reuse,19098.8,8303.826086956522,6000,24000
+2028,Circulaire hub Sluispolderweg,betonsteen,incoming_reused,14262.206666666667,6200.959420289856,2000,8000
+2028,Circulaire hub Sluispolderweg,betonsteen,outgoing_reuse,14681.683333333332,6383.340579710145,2000,8000
+2028,Circulaire hub Sluispolderweg,gebakken steen,incoming_reused,15341.565,7670.7825,2000,8000
+2028,Circulaire hub Sluispolderweg,gebakken steen,outgoing_reuse,19051.616666666665,9525.808333333332,2000,8000
+2028,Opslaglocatie Theemsweg,betontegel,incoming_reused,14523.326666666668,6314.489855072465,6000,24000
+2028,Opslaglocatie Theemsweg,betontegel,outgoing_reuse,14950.483333333332,6500.210144927536,6000,24000
+2029,Circulaire hub Sluispolderweg,betonsteen,incoming_reused,7422.88,3227.339130434783,2000,8000
+2029,Circulaire hub Sluispolderweg,betonsteen,outgoing_reuse,7641.199999999999,3322.2608695652175,2000,8000
+2029,Circulaire hub Sluispolderweg,gebakken steen,incoming_reused,6959.97,3479.985,2000,8000
+2029,Circulaire hub Sluispolderweg,gebakken steen,outgoing_reuse,8643.099999999999,4321.549999999999,2000,8000
+2029,Opslaglocatie Theemsweg,betontegel,incoming_reused,7422.88,3227.339130434783,6000,24000
+2029,Opslaglocatie Theemsweg,betontegel,outgoing_reuse,7641.199999999999,3322.2608695652175,6000,24000
+2030,Circulaire hub Sluispolderweg,betonsteen,incoming_reused,2223.826666666667,966.88115942029,2000,8000
+2030,Circulaire hub Sluispolderweg,betonsteen,outgoing_reuse,2289.233333333333,995.3188405797101,2000,8000
+2030,Circulaire hub Sluispolderweg,gebakken steen,incoming_reused,2501.8050000000003,1250.9025000000001,2000,8000
+2030,Circulaire hub Sluispolderweg,gebakken steen,outgoing_reuse,3106.8166666666666,1553.4083333333333,2000,8000
+2030,Opslaglocatie Theemsweg,betontegel,incoming_reused,2223.826666666667,966.88115942029,6000,24000
+2030,Opslaglocatie Theemsweg,betontegel,outgoing_reuse,2289.233333333333,995.3188405797101,6000,24000

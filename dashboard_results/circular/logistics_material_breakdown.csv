@@ -1,0 +1,67 @@
+year,material,flow,tonnes
+2025,betonsteen,incoming_reused,16401.826666666668
+2025,betonsteen,outgoing_processing,7236.100000000001
+2025,betonsteen,outgoing_reuse,16884.233333333334
+2025,betontegel,incoming_new,4056.4266666666654
+2025,betontegel,incoming_reused,16225.706666666667
+2025,betontegel,outgoing_processing,7158.4000000000015
+2025,betontegel,outgoing_reuse,16702.93333333333
+2025,gebakken steen,incoming_new,1980.1033333333332
+2025,gebakken steen,incoming_reused,17820.93
+2025,gebakken steen,outgoing_processing,2329.5333333333333
+2025,gebakken steen,outgoing_reuse,22130.566666666666
+2026,betonsteen,incoming_reused,16408.966666666667
+2026,betonsteen,outgoing_processing,7239.250000000001
+2026,betonsteen,outgoing_reuse,16891.583333333332
+2026,betontegel,incoming_new,5055.601666666666
+2026,betontegel,incoming_reused,20222.40666666667
+2026,betontegel,outgoing_processing,8921.650000000001
+2026,betontegel,outgoing_reuse,20817.18333333333
+2026,gebakken steen,incoming_new,2007.898333333333
+2026,gebakken steen,incoming_reused,18071.085
+2026,gebakken steen,outgoing_processing,2362.2333333333336
+2026,gebakken steen,outgoing_reuse,22441.216666666667
+2027,betonsteen,incoming_reused,16164.62
+2027,betonsteen,outgoing_processing,7131.450000000002
+2027,betonsteen,outgoing_reuse,16640.05
+2027,betontegel,incoming_new,4638.279999999999
+2027,betontegel,incoming_reused,18553.120000000003
+2027,betontegel,outgoing_processing,8185.200000000002
+2027,betontegel,outgoing_reuse,19098.8
+2027,gebakken steen,incoming_new,1827.3724999999995
+2027,gebakken steen,incoming_reused,16446.3525
+2027,gebakken steen,outgoing_processing,2149.8500000000004
+2027,gebakken steen,outgoing_reuse,20423.575
+2028,betonsteen,incoming_reused,14262.206666666667
+2028,betonsteen,outgoing_processing,6292.150000000001
+2028,betonsteen,outgoing_reuse,14681.683333333332
+2028,betontegel,incoming_new,3630.831666666666
+2028,betontegel,incoming_reused,14523.326666666668
+2028,betontegel,outgoing_processing,6407.35
+2028,betontegel,outgoing_reuse,14950.483333333334
+2028,gebakken steen,incoming_new,1704.618333333333
+2028,gebakken steen,incoming_reused,15341.565
+2028,gebakken steen,outgoing_processing,2005.4333333333334
+2028,gebakken steen,outgoing_reuse,19051.616666666665
+2029,betonsteen,incoming_reused,7422.88
+2029,betonsteen,outgoing_processing,3274.8
+2029,betonsteen,outgoing_reuse,7641.199999999999
+2029,betontegel,incoming_new,1855.7199999999996
+2029,betontegel,incoming_reused,7422.88
+2029,betontegel,outgoing_processing,3274.8
+2029,betontegel,outgoing_reuse,7641.199999999999
+2029,gebakken steen,incoming_new,773.3299999999998
+2029,gebakken steen,incoming_reused,6959.97
+2029,gebakken steen,outgoing_processing,909.8000000000001
+2029,gebakken steen,outgoing_reuse,8643.099999999999
+2030,betonsteen,incoming_reused,2223.826666666667
+2030,betonsteen,outgoing_processing,981.1000000000001
+2030,betonsteen,outgoing_reuse,2289.233333333333
+2030,betontegel,incoming_new,555.9566666666666
+2030,betontegel,incoming_reused,2223.826666666667
+2030,betontegel,outgoing_processing,981.1000000000001
+2030,betontegel,outgoing_reuse,2289.233333333333
+2030,gebakken steen,incoming_new,277.9783333333331
+2030,gebakken steen,incoming_reused,2501.8050000000003
+2030,gebakken steen,outgoing_processing,327.03333333333336
+2030,gebakken steen,outgoing_reuse,3106.8166666666666
