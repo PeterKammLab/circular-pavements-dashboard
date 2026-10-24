@@ -30,22 +30,19 @@ st.markdown('''<style>
 [data-testid="stMetric"] {background:white;border:1px solid #e8e8e8;border-radius:9px;padding:14px}
 </style>''', unsafe_allow_html=True)
 
-# Dashboard header
-header_left, header_right = st.columns([1.5, 1.5], gap="large")
+# Full-width header image
+header_image = ROOT / "assets" / "circular_pavements_header.png"
 
-with header_left:
-    st.title("Circular Pavements")
-    st.markdown(
-        "Spatial modelling of transport, material reuse and "
-        "environmental impact in Amsterdam’s road maintenance."
-    )
-    st.caption("TU Delft · AMS Institute")
+if header_image.exists():
+    st.image(str(header_image), use_container_width=True)
 
-with header_right:
-    st.image(
-        str(ROOT / "assets" / "circular_pavements_header.png"),
-        use_container_width=True
-    )
+# Dashboard title
+st.title("Circular Pavements")
+st.caption(
+    "Spatial modelling of transport, material reuse and "
+    "environmental impact in Amsterdam’s road maintenance."
+)
+st.caption("TU Delft · AMS Institute")
 
 # Controls: changes are only committed on button click.
 scenario_col, start_col, end_col, spacer_col = st.columns([2.5, 1.15, 1.15, 3.2], gap='medium')
