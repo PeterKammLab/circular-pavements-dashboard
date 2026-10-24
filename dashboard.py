@@ -126,16 +126,25 @@ else:
     st.info('Map not available for this scenario.')
 
 st.subheader('Material reuse by material')
+
+
 if 'material' in flows.columns:
+    materials = ['Betontegel', 'Betonsteen', 'Gebakken Steen']
+
     m_in = incoming.groupby('material')['tonnes'].sum()
     m_re = reused.groupby('material')['tonnes'].sum()
-    reuse_by_material = (100*m_re.reindex(m_in.index,fill_value=0)/m_in.where(m_in.ne(0))).fillna(0)
-    if not reuse_by_material.empty:
-        cols=st.columns(len(reuse_by_material))
-        for col,(material,pct) in zip(cols,reuse_by_material.items()):
-            col.metric(str(material).replace('_',' ').title(),f'{pct:.1f}%')
-else:
-    pass
+
+    reuse_by_material = pd.Series({
+        mat: (
+            100 * m_re.get(mat, 0) / m_in.get(mat, 0)
+            if m_in.get(mat, 0) > 0 else 0.0
+        )
+        for mat in materials
+    })
+
+    cols = st.columns(len(reuse_by_material))
+    for col, (material, pct) in zip(cols, reuse_by_material.items()):
+        col.metric(material, f'{pct:.1f}%')
 
 left,right=st.columns(2)
 with left:
